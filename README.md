@@ -80,8 +80,8 @@ git checkout 04-backend-infrastructure  # example: jump to Chapter 4
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/code-with-antonio/resonance.git
-cd resonance
++git clone https://github.com/David-Jhon/voice-clone.git
++cd voice-clone
 npm install
 ```
 
